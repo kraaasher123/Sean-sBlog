@@ -2,14 +2,15 @@
 
 body{
     text-align: center;
+    
 }
 
 
 .Blog{
     
     margin-top: -1px;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 1vw;
+    margin-right: 1vw;
     font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
     word-spacing: -1px;
@@ -34,7 +35,7 @@ body{
     height: 90%;
 }
 .description{
-    font-size: 10px;
+    font-size: 10;
     
 }
 
